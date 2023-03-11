@@ -22,7 +22,8 @@ function multiply(a, b) {
 }
 ```
 ***
-## Courses:
+## Education and Courses:
+* Moscow Aviation Institute, Bachelor's Degree.
 * The javaScript language on [learn.javascript.ru](https://learn.javascript.ru/)
 ***
 ## Languages
