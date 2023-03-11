@@ -8,7 +8,7 @@
 **Discord:** mIwLm_143(@ZWRKje)
 ***
 ## About Myself
-At the moment I am a 1st year master's student of the Moscow Aviation Institute (MAI).
+I am 22 years old. I am currently a 1st year master's student at the Moscow Aviation Institute (MAI). Recently I have started to study the JavaScript programming language.
 ***
 ## Skills:
 * JavaScript Basics
@@ -16,8 +16,16 @@ At the moment I am a 1st year master's student of the Moscow Aviation Institute 
 * VS Code
 ***
 ## Code example:
-Some text
+```
+function multiply(a, b) {
+  return a * b
+}
+```
 ***
 ## Courses:
 * The javaScript language on [learn.javascript.ru](https://learn.javascript.ru/)
 ***
+## Languages
+***
+* **Russian:** native language
+* **English:** B1
