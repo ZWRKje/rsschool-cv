@@ -14,6 +14,7 @@ I am 22 years old. I am currently a 1st year master's student at the Moscow Avia
 * JavaScript Basics
 * Git, GitHub
 * VS Code
+* Windows OS, Linux(Ubuntu)
 ***
 ## Code example:
 ```
