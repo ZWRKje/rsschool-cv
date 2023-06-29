@@ -25,6 +25,7 @@ function multiply(a, b) {
 ## Education and Courses:
 * Moscow Aviation Institute, Bachelor's Degree.
 * The javaScript language on [learn.javascript.ru](https://learn.javascript.ru/)
+* RS Schools Course «JavaScript/Front-end. Stage 0» (in progress)
 ***
 ## Languages
 ***
